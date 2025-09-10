@@ -8,16 +8,16 @@
 </div>
 <div align="center">
   <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/Facebook-4267B2?style=square&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="50" height="50"/>
+    <img src="https://img.shields.io/badge/Instagram-C13584?style=square&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://wa.me/201096790839" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/whatsapp.svg" alt="WhatsApp" width="50" height="50" style="background-color:#25D366; border-radius:15%; padding:5px;"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=square&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   <a href="mailto:mo879938@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Gmail" width="50" height="50" style="background-color:#D14836; border-radius:15%; padding:5px;"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
 
