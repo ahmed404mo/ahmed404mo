@@ -1,8 +1,10 @@
 <div align="center">
   <h1 style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">👋 Hello! I'm Ahmed</h1>
-  <p style="font-size: 18px; font-style: italic; color: #f39c12;">
-    Front-End Developer | Open Source Enthusiast | Lifelong Learner
-  </p>
+
+  <!-- Animated Typing Effect -->
+  <img src="https://readme-typing-svg.demolab.com/?lines=Front-End%20Developer;Open%20Source%20Enthusiast;Lifelong%20Learner;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=00BFFF&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+
+  <br/>
   <img src="https://img.shields.io/badge/Front--End%20Developer-28A9E0?style=for-the-badge&logo=react&logoColor=white" alt="Front-End Developer Badge" />
 </div>
 
