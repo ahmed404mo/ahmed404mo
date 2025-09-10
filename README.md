@@ -55,8 +55,27 @@ I'm a passionate front-end developer who loves turning ideas into digital realit
 
 ## 📈 GitHub Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmokhtar&theme=react-dark&hide_border=true&bg_color=0D1117&color=FFFFFF&line=28A9E0&point=28A9E0&area=true&area_color=28A9E0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<!-- GitHub Stats Cards -->
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedmokhtar&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=28A9E0&text_color=FFFFFF&icon_color=28A9E0&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmokhtar&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=28A9E0&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+</div>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmokhtar&theme=algolia&hide_border=true&background=0D1117&stroke=28A9E0&ring=28A9E0&fire=28A9E0&currStreakNum=FFFFFF&sideNums=28A9E0&currStreakLabel=28A9E0&sideLabels=28A9E0&dates=FFFFFF" alt="GitHub Streak" />
+</div>
+
+<!-- GitHub Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedmokhtar&theme=react-dark&hide_border=true&bg_color=0D1117&color=28A9E0&line=28A9E0&point=FFFFFF&area=true&area_color=1a3c5a" alt="GitHub Activity Graph" width="100%" />
+</div>
+
+<!-- GitHub Trophy -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedmokhtar&theme=algolia&no-frame=true&margin-w=15&margin-h=15&row=2&column=4" alt="GitHub Trophies" />
+</div>
 
 ## 🤝 Let's Connect
 
