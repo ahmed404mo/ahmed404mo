@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=👋%20Hey&width=200&height=60&color1=28A9E0&color2=28A9E0"/> , I'm Ahmed!
+    <img src="https://svg-banners.vercel.app/api?type=glitch&text1=%20Hey&width=200&height=60&color1=28A9E0&color2=28A9E0"/> , I'm Ahmed!
   </h1>
 
   <p><strong>Front-End Developer | Building Engaging & Responsive Web Experiences</strong></p>
