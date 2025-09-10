@@ -7,6 +7,20 @@
   <br/>
   <img src="https://img.shields.io/badge/Front--End%20Developer-28A9E0?style=for-the-badge&logo=react&logoColor=white" alt="Front-End Developer Badge" />
 </div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-mokhtar-a23a10372">
+    <img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.facebook.com/share/1GZmgpbeRE/">
+    <img width="32px" alt="Facebook" title="Facebook" src="https://i.imgur.com/ni1Z5k1.png"/>
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/ahmed404mo?igsh=eGdnaXplaThrODg5">
+    <img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/z6U9lTg.png"/>
+  </a>
+</p>
+
 
 ---
 
