@@ -12,11 +12,18 @@
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </div>
   
-  <!-- GitHub statistics -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedmokhtar&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117" alt="Ahmed's GitHub stats" />
+  <!-- Custom GitHub statistics -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+    <div style="text-align: center;">
+      <img src="https://github-readme-stats.vercel.app/api?username=ahmedmokhtar&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=28A9E0&text_color=FFFFFF&icon_color=28A9E0" alt="GitHub Stats" width="400" />
+    </div>
+    <div style="text-align: center;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmokhtar&theme=algolia&hide_border=true&background=0D1117&stroke=28A9E0&ring=28A9E0&fire=28A9E0&currStreakNum=FFFFFF&sideNums=28A9E0&currStreakLabel=28A9E0&sideLabels=28A9E0&dates=FFFFFF" alt="GitHub Streak" width="400" />
+    </div>
+  </div>
   
   <!-- Most used languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmokhtar&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmokhtar&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=28A9E0&text_color=FFFFFF" alt="Top Languages" width="400" />
   
   <!-- Animated line -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=28A9E0&center=true&vCenter=true&width=500&lines=Passionate+Front-End+Developer;Creating+Elegant+Web+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -49,26 +56,39 @@ I'm a passionate front-end developer who loves turning ideas into digital realit
 ## 📈 GitHub Activity
 
 <!-- Contribution graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmokhtar&theme=react-dark&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmokhtar&theme=react-dark&hide_border=true&bg_color=0D1117&color=28A9E0&line=28A9E0&point=28A9E0)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🤝 Let's Connect
 
+<div align="center" style="margin: 30px 0;">
+  <!-- Large custom social media icons -->
+  <a href="https://www.linkedin.com/in/ahmed-mokhtar-a23a10372" target="_blank" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60" />
+  </a>
+  <a href="https://wa.me/201096790839" target="_blank" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" alt="WhatsApp" width="60" height="60" />
+  </a>
+  <a href="mailto:mo879938@gmail.com" target="_blank" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="60" height="60" />
+  </a>
+  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="60" height="60" />
+  </a>
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank" style="margin: 0 15px; text-decoration: none;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="60" height="60" />
+  </a>
+</div>
+
 <div align="center" style="margin: 20px 0;">
-  <!-- Larger social media icons -->
-  <a href="https://www.linkedin.com/in/ahmed-mokhtar-a23a10372" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=30" alt="LinkedIn" height="50"/>
+  <!-- Social media labels -->
+  <a href="https://www.linkedin.com/in/ahmed-mokhtar-a23a10372" target="_blank" style="margin: 0 10px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" height="30"/>
   </a>
-  <a href="https://wa.me/201096790839" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&logoWidth=30" alt="WhatsApp" height="50"/>
+  <a href="https://wa.me/201096790839" target="_blank" style="margin: 0 10px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/WhatsApp-Message-green?style=flat-square&logo=whatsapp" alt="WhatsApp" height="30"/>
   </a>
-  <a href="mailto:mo879938@gmail.com" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=30" alt="Gmail" height="50"/>
-  </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white&logoWidth=30" alt="Facebook" height="50"/>
-  </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank" style="margin: 0 10px;">
-    <img src="https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=30" alt="Instagram" height="50"/>
+  <a href="mailto:mo879938@gmail.com" target="_blank" style="margin: 0 10px; text-decoration: none;">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail" alt="Gmail" height="30"/>
   </a>
 </div>
 
