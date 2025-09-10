@@ -56,6 +56,10 @@ I'm a passionate front-end developer who loves turning ideas into digital realit
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 <!-- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) -->
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" width="400" />
+</div>
+
 ##  GitHub Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmokhtar&theme=github-dark&hide_border=true&bg_color=0D1117&color=28A9E0&line=28A9E0&point=FFFFFF&area=true&area_color=1a3c5a&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
