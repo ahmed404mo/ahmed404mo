@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=28A9E0&center=true&vCenter=true&width=500&lines=👋+Hey,+I'm+Ahmed!" alt="Hey, I'm Ahmed!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=28A9E0&center=true&vCenter=true&width=500&lines=Hey,+I'm+Ahmed!" alt="Hey, I'm Ahmed!" />
   
-  <p><strong>Front-End Developer | Building Engaging & Responsive Web Experiences</strong></p>
-
   <!-- الكلام الأزرق المتحرك -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=28A9E0&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%7C+JavaScript+%7C+CSS+%7C+HTML;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
