@@ -65,21 +65,25 @@ I'm a passionate front-end developer who loves turning ideas into digital realit
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed404mo&theme=github-dark&hide_border=true&bg_color=0D1117&color=28A9E0&line=28A9E0&point=FFFFFF&area=true&area_color=1a3c5a&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##  Let's Connect
-<div align="center" style="margin: 30px 0;">
-  <a href="https://www.linkedin.com/in/ahmed-mokhtar-a23a10372" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60" />
+
+<!-- ربط مكتبة Font Awesome -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"/>
+
+<div align="center" style="margin: 30px 0; font-size: 40px;">
+  <a href="https://www.linkedin.com/in/ahmed-mokhtar-a23a10372" target="_blank" style="margin: 0 15px; color: #0A66C2;">
+    <i class="fab fa-linkedin"></i>
   </a>
-  <a href="https://wa.me/201096790839" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" alt="WhatsApp" width="60" height="60" />
+  <a href="https://wa.me/201096790839" target="_blank" style="margin: 0 15px; color: #25D366;">
+    <i class="fab fa-whatsapp"></i>
   </a>
-  <a href="mailto:mo879938@gmail.com" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="60" height="60" />
+  <a href="mailto:mo879938@gmail.com" target="_blank" style="margin: 0 15px; color: #D14836;">
+    <i class="fas fa-envelope"></i>
   </a>
-  <a href="https://www.facebook.com/share/1GZmgpbeRE/" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="60" height="60" />
+  <a href="https://www.facebook.com/share/1GZmgpbeRE/" target="_blank" style="margin: 0 15px; color: #1877F2;">
+    <i class="fab fa-facebook"></i>
   </a>
-  <a href="https://www.instagram.com/ahmed404mo?igsh=eGdnaXplaThrODg5" target="_blank" style="margin: 0 15px;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="60" height="60" />
+  <a href="https://www.instagram.com/ahmed404mo?igsh=eGdnaXplaThrODg5" target="_blank" style="margin: 0 15px; color: #E1306C;">
+    <i class="fab fa-instagram"></i>
   </a>
 </div>
 
