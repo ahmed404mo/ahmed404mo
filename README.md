@@ -71,26 +71,14 @@ I'm a passionate front-end developer who loves turning ideas into digital realit
   <a href="mailto:mo879938@gmail.com" target="_blank" style="margin: 0 15px; text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="60" height="60" />
   </a>
-  <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank" style="margin: 0 15px; text-decoration: none;">
+  <a href="[https://facebook.com/YOUR_FACEBOOK](https://www.facebook.com/share/1GZmgpbeRE/)" target="_blank" style="margin: 0 15px; text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="60" height="60" />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank" style="margin: 0 15px; text-decoration: none;">
+  <a href="[https://instagram.com/YOUR_INSTAGRAM](https://www.instagram.com/ahmed404mo?igsh=eGdnaXplaThrODg5)" target="_blank" style="margin: 0 15px; text-decoration: none;">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="60" height="60" />
   </a>
 </div>
 
-<div align="center" style="margin: 20px 0;">
-  <!-- Social media labels -->
-  <a href="https://www.linkedin.com/in/ahmed-mokhtar-a23a10372" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" height="30"/>
-  </a>
-  <a href="https://wa.me/201096790839" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/WhatsApp-Message-green?style=flat-square&logo=whatsapp" alt="WhatsApp" height="30"/>
-  </a>
-  <a href="mailto:mo879938@gmail.com" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=flat-square&logo=gmail" alt="Gmail" height="30"/>
-  </a>
-</div>
 
 ---
 
