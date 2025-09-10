@@ -65,40 +65,25 @@ I'm a passionate front-end developer who loves turning ideas into digital realit
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed404mo&theme=github-dark&hide_border=true&bg_color=0D1117&color=28A9E0&line=28A9E0&point=FFFFFF&area=true&area_color=1a3c5a&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##  Let's Connect
-
 <div align="center" style="margin: 30px 0;">
-  <!-- Large custom social media icons with hover effects -->
-  <a href="https://www.linkedin.com/in/ahmed-mokhtar-a23a10372" target="_blank" style="margin: 0 15px; text-decoration: none; transition: transform 0.3s ease;">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="60" height="60" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <!-- أيقونات عادية بدون تأثيرات -->
+  <a href="https://www.linkedin.com/in/ahmed-mokhtar-a23a10372" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="40" height="40" />
   </a>
-  <a href="https://wa.me/201096790839" target="_blank" style="margin: 0 15px; text-decoration: none; transition: transform 0.3s ease;">
-    <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" alt="WhatsApp" width="60" height="60" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="https://wa.me/201096790839" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/220/220236.png" alt="WhatsApp" width="40" height="40" />
   </a>
-  <a href="mailto:mo879938@gmail.com" target="_blank" style="margin: 0 15px; text-decoration: none; transition: transform 0.3s ease;">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="60" height="60" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="mailto:mo879938@gmail.com" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="40" height="40" />
   </a>
-  <a href="https://www.facebook.com/share/1GZmgpbeRE/" target="_blank" style="margin: 0 15px; text-decoration: none; transition: transform 0.3s ease;">
-    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="60" height="60" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
+  <a href="https://www.facebook.com/share/1GZmgpbeRE/" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" alt="Facebook" width="40" height="40" />
   </a>
-  <a href="https://www.instagram.com/ahmed404mo?igsh=eGdnaXplaThrODg5" target="_blank" style="margin: 0 15px; text-decoration: none; transition: transform 0.3s ease;">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="60" height="60" style="transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'" />
-  </a>
-</div>
-
-<div align="center" style="margin: 20px 0;">
-  <!-- Social media labels with consistent styling -->
-  <a href="https://www.linkedin.com/in/ahmed-mokhtar-a23a10372" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/201096790839" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:mo879938@gmail.com" target="_blank" style="margin: 0 10px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  <a href="https://www.instagram.com/ahmed404mo?igsh=eGdnaXplaThrODg5" target="_blank" style="margin: 0 10px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" />
   </a>
 </div>
 
----
 
 <!-- <div align="center">
   
