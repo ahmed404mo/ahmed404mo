@@ -1,5 +1,6 @@
 <div align="center">
-  <h1><span style="color:#28A9E0">👋 Hey</span>, I'm Ahmed!</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=28A9E0&center=true&vCenter=true&width=500&lines=👋+Hey,+I'm+Ahmed!" alt="Hey, I'm Ahmed!" />
+  
   <p><strong>Front-End Developer | Building Engaging & Responsive Web Experiences</strong></p>
 
   <!-- الكلام الأزرق المتحرك -->
@@ -31,3 +32,4 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
+
