@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hey, I'm Ahmed!</h1>
-  <p><strong>Front-End Developer | Crafting Modern & Responsive Web Experiences</strong></p>
+  <p style="color: aqua;"><strong>Front-End Developer | Crafting Modern & Responsive Web Experiences</strong></p>
   <img src="https://img.shields.io/badge/Front--End%20Developer-28A9E0?style=for-the-badge&logo=dev.to&logoColor=white" alt="Front-End Developer Badge" />
 </div>
 
