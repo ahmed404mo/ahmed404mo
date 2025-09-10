@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<!--     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> -->
   </div>
   
   <!-- Custom GitHub statistics -->
@@ -30,16 +30,15 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=28A9E0&center=true&vCenter=true&width=500&lines=Passionate+Front-End+Developer;Creating+Elegant+Web+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
-## 👨‍💻 About Me
+##  About Me
 
 I'm a passionate front-end developer who loves turning ideas into digital reality. I specialize in creating interactive, responsive, and user-friendly web applications with clean, maintainable code.
 
-- 🌱 Currently learning: **Next.js and TypeScript**
-- 🎯 Goal: Become a full-stack web developer
-- ❤️ Passion: Solving complex problems and designing intuitive user interfaces
-- 📫 How to reach me: **mo879938@gmail.com**
+-  Currently learning: **Next.js and TypeScript**
+-  Goal: Become a full-stack web developer
+-  Passion: Solving complex problems and designing intuitive user interfaces
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend Development
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -57,11 +56,11 @@ I'm a passionate front-end developer who loves turning ideas into digital realit
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
 
-## 📈 GitHub Activity
+##  GitHub Activity
 
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmokhtar&theme=github-dark&hide_border=true&bg_color=0D1117&color=28A9E0&line=28A9E0&point=FFFFFF&area=true&area_color=1a3c5a&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center" style="margin: 30px 0;">
   <!-- Large custom social media icons with hover effects -->
