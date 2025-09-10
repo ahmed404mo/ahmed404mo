@@ -7,19 +7,20 @@
   <br/>
   <img src="https://img.shields.io/badge/Front--End%20Developer-28A9E0?style=for-the-badge&logo=react&logoColor=white" alt="Front-End Developer Badge" />
 </div>
+
+
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-mokhtar-a23a10372">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/share/1GZmgpbeRE/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="32px" alt="Facebook" style="fill:#1877F2;"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  &#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/ahmed404mo?igsh=eGdnaXplaThrODg5">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="32px" alt="Instagram" style="fill:url(#grad);"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
+
 
 
 
