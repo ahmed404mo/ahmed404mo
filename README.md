@@ -1,12 +1,22 @@
 <div align="center">
   <h1><span style="color:#28A9E0">👋 Hey</span>, I'm Ahmed!</h1>
-  
+  <p><strong>Front-End Developer | Building Engaging & Responsive Web Experiences</strong></p>
 
   <!-- الكلام الأزرق المتحرك -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=28A9E0&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%7C+JavaScript+%7C+CSS+%7C+HTML;Always+Learning+New+Things" alt="Typing SVG" />
-  
-  <img src="https://img.shields.io/badge/Front--End%20Developer-28A9E0?style=for-the-badge&logo=dev.to&logoColor=white" alt="Front-End Developer Badge" />
 </div>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
+</div>
+
+---
+
+## 🌐 Connect with me
 <div align="center">
   <a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
@@ -21,15 +31,3 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </div>
-
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="Top Langs" height="180"/>
-</div>
-
----
-
