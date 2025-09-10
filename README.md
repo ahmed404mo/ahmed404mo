@@ -55,8 +55,8 @@ I'm a passionate front-end developer who loves turning ideas into digital realit
 
 ## 📈 GitHub Activity
 
-<!-- Contribution graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmokhtar&theme=react-dark&hide_border=true&bg_color=0D1117&color=28A9E0&line=28A9E0&point=28A9E0)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmokhtar&theme=github-dark&hide_border=true&bg_color=0D1117&color=28A9E0&line=28A9E0&point=FFFFFF&area=true&area_color=1a3c5a)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## 🤝 Let's Connect
 
