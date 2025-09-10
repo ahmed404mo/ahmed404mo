@@ -13,11 +13,11 @@
   </a>
   &#8287;&#8287;&#8287;
   <a href="https://www.facebook.com/share/1GZmgpbeRE/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="32px" alt="Facebook"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="32px" alt="Facebook" style="fill:#1877F2;"/>
   </a>
   &#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/ahmed404mo?igsh=eGdnaXplaThrODg5">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="32px" alt="Instagram"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="32px" alt="Instagram" style="fill:url(#grad);"/>
   </a>
 </p>
 
