@@ -100,9 +100,9 @@ I'm a passionate front-end developer who loves turning ideas into digital realit
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   
   ![Visitor Count](https://komarev.com/ghpvc/?username=ahmedmokhtar&style=for-the-badge&color=28A9E0)
   
   <p>⭐️ From <a href="https://github.com/ahmed404mo" style="color: #28A9E0; text-decoration: none;">Ahmed Mokhtar</a></p>
-</div>
+</div> -->
