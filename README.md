@@ -16,7 +16,7 @@
   <!-- Custom GitHub statistics -->
   <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0; flex-wrap: wrap;">
     <div style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ahmedmokhtar&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=28A9E0&text_color=FFFFFF&icon_color=28A9E0&include_all_commits=true" alt="GitHub Stats" width="400" />
+      <img src="https://github-readme-stats.vercel.app/api?username=ahmed mokhtar&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=28A9E0&text_color=FFFFFF&icon_color=28A9E0&include_all_commits=true" alt="GitHub Stats" width="400" />
     </div>
     <div style="text-align: center;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmokhtar&theme=algolia&hide_border=true&background=0D1117&stroke=28A9E0&ring=28A9E0&fire=28A9E0&currStreakNum=FFFFFF&sideNums=28A9E0&currStreakLabel=28A9E0&sideLabels=28A9E0&dates=FFFFFF" alt="GitHub Streak" width="400" />
