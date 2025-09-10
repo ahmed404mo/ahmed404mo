@@ -57,6 +57,13 @@ I'm a passionate front-end developer who loves turning ideas into digital realit
 <!-- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) -->
 
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Developer GIF" width="400" />
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" alt="Coding GIF" width="400" />
+
+<!-- Option 3: Typing code -->
+<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="Typing Code GIF" width="400" />
+
+<!-- Option 4: Digital creativity -->
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Creativity GIF" width="400" />
 
 ##  GitHub Activity
 
