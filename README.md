@@ -24,7 +24,7 @@
   </div>
   
   <!-- Most used languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmokhtar&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=28A9E0&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed404mo&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=28A9E0&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="400" />
   
   <!-- Animated line -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=28A9E0&center=true&vCenter=true&width=500&lines=Passionate+Front-End+Developer;Creating+Elegant+Web+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
@@ -62,7 +62,7 @@ I'm a passionate front-end developer who loves turning ideas into digital realit
 
 ##  GitHub Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmedmokhtar&theme=github-dark&hide_border=true&bg_color=0D1117&color=28A9E0&line=28A9E0&point=FFFFFF&area=true&area_color=1a3c5a&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed404mo&theme=github-dark&hide_border=true&bg_color=0D1117&color=28A9E0&line=28A9E0&point=FFFFFF&area=true&area_color=1a3c5a&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##  Let's Connect
 
@@ -102,7 +102,7 @@ I'm a passionate front-end developer who loves turning ideas into digital realit
 
 <!-- <div align="center">
   
-  ![Visitor Count](https://komarev.com/ghpvc/?username=ahmedmokhtar&style=for-the-badge&color=28A9E0)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=ahmed404mo&style=for-the-badge&color=28A9E0)
   
   <p>⭐️ From <a href="https://github.com/ahmed404mo" style="color: #28A9E0; text-decoration: none;">Ahmed Mokhtar</a></p>
 </div> -->
