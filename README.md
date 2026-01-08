@@ -1,95 +1,98 @@
 <div align="center">
-  
-  <!-- Header with custom typing animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=28A9E0&center=true&vCenter=true&width=500&lines=Ahmed+Mokhtar;Front-End+Developer" alt="Typing SVG" />
-  
-  <!-- Skills badges -->
-  <div>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<!--     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /> -->
-  </div>
-  
-  <!-- Custom GitHub statistics -->
-  <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0; flex-wrap: wrap;">
-    <div style="text-align: center;">
-      <img src="https://github-readme-stats.vercel.app/api?username=ahmed404mo&show_icons=true&theme=algolia&hide_border=true&bg_color=0D1117&title_color=28A9E0&text_color=FFFFFF&icon_color=28A9E0&include_all_commits=true" alt="GitHub Stats" width="400" />
-    </div>
-    <div style="text-align: center;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedmokhtar&theme=algolia&hide_border=true&background=0D1117&stroke=28A9E0&ring=28A9E0&fire=28A9E0&currStreakNum=FFFFFF&sideNums=28A9E0&currStreakLabel=28A9E0&sideLabels=28A9E0&dates=FFFFFF" alt="GitHub Streak" width="400" />
-    </div>
-  </div>
-  
-  <!-- Most used languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed404mo&layout=compact&theme=algolia&hide_border=true&bg_color=0D1117&title_color=28A9E0&text_color=FFFFFF&langs_count=8" alt="Top Languages" width="400" />
-  
-  <!-- Animated line -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=28A9E0&center=true&vCenter=true&width=500&lines=Passionate+Front-End+Developer;Creating+Elegant+Web+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26size%3D30%26pause%3D1000%26color%3D28A9E0%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DHi%2BThere!%2BI%27m%2BAhmed%2BMokhtar%3BPassionate%2BFront-End%2BDeveloper%3BAspiring%2BFull-Stack%2BEngineer%3BBuilding%2BElegant%2BWeb%2BSolutions" alt="Typing SVG" />
 </div>
 
-##  About Me
-
-I'm a passionate front-end developer who loves turning ideas into digital reality. I specialize in creating interactive, responsive, and user-friendly web applications with clean, maintainable code.
-
--  Currently learning: **Next.js and TypeScript**
--  Goal: Become a full-stack web developer
--  Passion: Solving complex problems and designing intuitive user interfaces
-
-##  Tech Stack
-
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-hotpink?style=flat-square&logo=SASS&logoColor=white)
-<!--![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) -->
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
-<!-- ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black) -->
-
-
-<img src="https://media.giphy.com/media/ES4Vcv8zWfIt2/giphy.gif" alt="Typing Code GIF" width="100%" />
-
-
-##  GitHub Activity
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ahmed404mo&theme=github-dark&hide_border=true&bg_color=0D1117&color=28A9E0&line=28A9E0&point=FFFFFF&area=true&area_color=1a3c5a&height=300)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-##  Let's Connect
-
-<!-- ربط مكتبة Font Awesome -->
-<div align="center" style="margin: 20px 0;">
-  <a href="https://www.linkedin.com/in/ahmed-mokhtar-a23a10372" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://wa.me/201096790839" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Message-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="mailto:mo879938@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.facebook.com/share/1GZmgpbeRE/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Visit-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/ahmed404mo?igsh=eGdnaXplaThrODg5" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<div align="center">
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100%" />
 </div>
 
+<h2 align="center">👨‍💻 About Me</h2>
 
+<p align="center">
+I am a dedicated <b>Front-End Developer</b> with a keen eye for design and a passion for writing clean, efficient code. I specialize in building interactive and responsive web applications using the React ecosystem. Currently, I am expanding my horizons into <b>Backend Development</b> to become a proficient Full-Stack Developer.
+</p>
 
-<!-- <div align="center">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=ahmed404mo&style=for-the-badge&color=28A9E0)
-  
-  <p>⭐️ From <a href="https://github.com/ahmed404mo" style="color: #28A9E0; text-decoration: none;">Ahmed Mokhtar</a></p>
-</div> -->
+<div align="center">
+
+🌱 Currently Learning: Next.js, Node.js, and System Design
+
+🎯 Goal: Building scalable Full-Stack applications
+
+💬 Ask me about: React, JavaScript, UI/UX Implementation
+
+</div>
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<div align="center">
+
+Frontend
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-3178C6%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SASS-hotpink%3Fstyle%3Dfor-the-badge%26logo%3DSASS%26logoColor%3Dwhite" />
+
+Backend
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Node.js-43853D%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Express.js-404D59%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-CC2927%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-sql-server%26logoColor%3Dwhite" />
+
+Tools & Versions
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/GitHub-100000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/VS_Code-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Figma-F24E1E%3Fstyle%3Dfor-the-badge%26logo%3Dfigma%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/NPM-CB3837%3Fstyle%3Dfor-the-badge%26logo%3Dnpm%26logoColor%3Dwhite" />
+
+</div>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dahmed404mo%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D28A9E0%26icon_color%3D28A9E0" height="180" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dahmed404mo%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue%26bg_color%3D0D1117%26title_color%3D28A9E0%26langs_count%3D6" height="180" alt="languages graph" />
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dahmedmokhtar%26theme%3Dtokyonight%26hide_border%3Dtrue%26background%3D0D1117%26stroke%3D28A9E0%26ring%3D28A9E0%26fire%3D28A9E0%26currStreakNum%3DFFFFFF%26sideNums%3D28A9E0%26currStreakLabel%3D28A9E0%26sideLabels%3D28A9E0%26dates%3DFFFFFF" alt="streak graph" />
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Dahmed404mo%26theme%3Dreact%26hide_border%3Dtrue%26bg_color%3D0D1117%26color%3D28A9E0%26line%3D28A9E0%26point%3DFFFFFF%26area%3Dtrue%26area_color%3D1a3c5a" width="100%" alt="Activity Graph" />
+</div>
+
+<h2 align="center">📫 Let's Connect</h2>
+
+<div align="center">
+<a href="https://www.linkedin.com/in/ahmed-mokhtar-a23a10372" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn" />
+</a>
+<a href="mailto:mo879938@gmail.com">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Gmail" />
+</a>
+<a href="https://wa.me/201096790839" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/WhatsApp-25D366%3Fstyle%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite" alt="WhatsApp" />
+</a>
+<a href="https://www.facebook.com/share/1GZmgpbeRE/" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Facebook-1877F2%3Fstyle%3Dfor-the-badge%26logo%3Dfacebook%26logoColor%3Dwhite" alt="Facebook" />
+</a>
+<a href="https://www.instagram.com/ahmed404mo?igsh=eGdnaXplaThrODg5" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Instagram-E4405F%3Fstyle%3Dfor-the-badge%26logo%3Dinstagram%26logoColor%3Dwhite" alt="Instagram" />
+</a>
+</div>
+
+<br />
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dahmed404mo%26style%3Dflat-square%26color%3D28A9E0%26label%3DProfile%2BViews" alt="Profile Views" />
+</div>
