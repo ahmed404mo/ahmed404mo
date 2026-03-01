@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  Welcome to my GitHub Page. I am Ahmed Mokhtar, currently a student at the Faculty of Early Childhood Education, Cairo University. I learn new things about Full-Stack web programming and specialize in building scalable applications. I have a great passion for building interactive digital experiences and working with modern web technologies like React and Next.js. Also, I am constantly expanding my backend skills with Node.js and SQL to turn complex problems into clean, efficient code!
+Welcome to my GitHub Page. I am <b>Ahmed Mokhtar</b>, a passionate <b>Junior Full-Stack Developer</b> dedicated to building scalable and efficient web applications. I have a great passion for creating interactive digital experiences using modern web technologies like <b>React</b> and <b>Next.js</b>. Currently, I am constantly expanding my backend expertise with <b>Node.js</b>, <b>SQL</b>, and <b>NoSQL</b> databases to turn complex challenges into clean, high-quality code!
 </p>
 
 
@@ -92,9 +92,9 @@
   </tr>
 
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prisma" width="55" height="55" alt="Prisma" />
-      <br>Prisma
+<td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=npm" width="55" height="55" alt="npm" />
+      <br>npm
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=redux" width="55" height="55" alt="Redux" />
