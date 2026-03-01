@@ -24,6 +24,7 @@
   Welcome to my GitHub Page. I am Ahmed Mokhtar, currently a student at the Faculty of Early Childhood Education, Cairo University. I learn new things about Full-Stack web programming and specialize in building scalable applications. I have a great passion for building interactive digital experiences and working with modern web technologies like React and Next.js. Also, I am constantly expanding my backend skills with Node.js and SQL to turn complex problems into clean, efficient code!
 </p>
 
+
 ## My favorite tools and technologies ⚙️
 > Tools and technologies that I have worked with and am interested in
 
@@ -58,7 +59,16 @@
       <br>Tailwind
     </td>
   </tr>
+  
   <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=scss" width="55" height="55" alt="SCSS" />
+      <br>SCSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" alt="Node.js" />
       <br>Node.js
@@ -68,8 +78,27 @@
       <br>Express
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://avatars.githubusercontent.com/u/7552965?v=4" width="55" height="55" alt="Mongoose" style="border-radius: 12px;" />
+      <br>Mongoose
+    </td>
+    <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="MySQL" />
       <br>MySQL
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prisma" width="55" height="55" alt="Prisma" />
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redux" width="55" height="55" alt="Redux" />
+      <br>Redux
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="55" height="55" alt="Git" />
@@ -87,9 +116,12 @@
       <img src="https://skillicons.dev/icons?i=postman" width="55" height="55" alt="Postman" />
       <br>Postman
     </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="55" height="55" alt="Vercel" />
+      <br>Vercel
+    </td>
   </tr>
 </table>
-
 ## Github stats 📊
 <details open>
   <summary>GitHub Profile Stats 💻</summary>
