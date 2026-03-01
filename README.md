@@ -171,14 +171,7 @@ Welcome to my GitHub Page. I am <b>Ahmed Mokhtar</b>, a passionate <b>Junior Ful
   </a>
 </div>
 
-## GitHub Profile Trophy 🏆
-<div align="center">
-  
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahmed404mo&layout=donut&theme=transparent&hide_border=true&title_color=28A9E0&text_color=888888&icon_color=28A9E0" alt="Top Skills" />
 
-</div>
-
-<br>
 
 ## 👨‍💻 Professional Coding in Action
 <div align="center">
