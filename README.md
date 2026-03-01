@@ -150,7 +150,7 @@
 
 ## 👨‍💻 Professional Coding in Action
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="Coding at work" />
+  <img src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif" width="600" alt="Coding at work" />
   <br>
   <em>Turning ideas into code, one commit at a time.</em>
 </div>
