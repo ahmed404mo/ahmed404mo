@@ -137,19 +137,19 @@ Welcome to my GitHub Profile! I am <b>Ahmed Mokhtar</b>, a passionate <b>Full-St
       <br>Vercel
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=stripe" alt="Stripe" width="55" height="55" />
+      <img src="https://cdn.simpleicons.org/stripe" alt="Stripe" width="55" height="55" />
       <br>Stripe
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=socketio" alt="Socket.IO" width="55" height="55" />
+      <img src="https://cdn.simpleicons.org/socketdotio" alt="Socket.IO" width="55" height="55" />
       <br>Socket.IO
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cloudinary" alt="Cloudinary" width="55" height="55" />
+      <img src="https://cdn.simpleicons.org/cloudinary" alt="Cloudinary" width="55" height="55" />
       <br>Cloudinary
     </td>
     <td align="center" width="96">
-      <img src="https://avatars.githubusercontent.com/u/22330995?v=4" alt="Nodemailer" width="55" height="55" style="border-radius: 12px;" />
+      <img src="https://avatars.githubusercontent.com/u/16486629?v=4" alt="Nodemailer" width="55" height="55" style="border-radius: 12px;" />
       <br>Nodemailer
     </td>
   </tr>
@@ -161,10 +161,10 @@ Welcome to my GitHub Profile! I am <b>Ahmed Mokhtar</b>, a passionate <b>Full-St
   <br/>
   <p align="center">
     <a href="https://github.com/ahmed404mo">
-      <img alt="Ahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=ahmed404mo&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=28A9E0&icon_color=28A9E0" height="192px"/>
+      <img alt="Ahmed's GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api/?username=ahmed404mo&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=28A9E0&icon_color=28A9E0" height="192px"/>
     </a>
     <a href="https://github.com/ahmed404mo">
-      <img alt="Ahmed's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed404mo&langs_count=6&layout=compact&theme=transparent&hide_border=true&title_color=28A9E0&icon_color=28A9E0" height="192px"/>
+      <img alt="Ahmed's Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahmed404mo&langs_count=6&layout=compact&theme=transparent&hide_border=true&title_color=28A9E0&icon_color=28A9E0" height="192px"/>
     </a>
   </p>
   <p align="center">
@@ -185,7 +185,7 @@ Welcome to my GitHub Profile! I am <b>Ahmed Mokhtar</b>, a passionate <b>Full-St
 <details>
   <summary>Achievements 🏆</summary>
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmed404mo&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=ahmed404mo&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </details>
 
 <details>
@@ -193,10 +193,10 @@ Welcome to my GitHub Profile! I am <b>Ahmed Mokhtar</b>, a passionate <b>Full-St
   <br/>
   <p align="center">
     <a href="https://github.com/ahmed404mo">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed404mo&repo=E-Commerce-&theme=transparent&hide_border=true&title_color=28A9E0" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed404mo&repo=SARAHA-APPBackEnd&theme=transparent&hide_border=true&title_color=28A9E0" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed404mo&repo=frontPortfolio&theme=transparent&hide_border=true&title_color=28A9E0" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ahmed404mo&repo=Academic-Advising-Portal&theme=transparent&hide_border=true&title_color=28A9E0" />
+      <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ahmed404mo&repo=E-Commerce-&theme=transparent&hide_border=true&title_color=28A9E0" />
+      <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ahmed404mo&repo=SARAHA-APPBackEnd&theme=transparent&hide_border=true&title_color=28A9E0" />
+      <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ahmed404mo&repo=frontPortfolio&theme=transparent&hide_border=true&title_color=28A9E0" />
+      <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ahmed404mo&repo=Academic-Advising-Portal&theme=transparent&hide_border=true&title_color=28A9E0" />
     </a>
   </p>
 </details>
