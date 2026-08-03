@@ -31,8 +31,7 @@
 
 <p align="center">
 Welcome to my GitHub Profile! I am <b>Ahmed Mokhtar</b>, a passionate <b>Full-Stack Developer</b> dedicated to building scalable and efficient web applications. I create modern, interactive digital experiences with <b>React</b> & <b>Next.js</b>, and I build robust backends with <b>Node.js</b>, <b>Express</b> & <b>NestJS</b> — turning complex challenges into clean, high-quality code with <b>SQL</b> & <b>NoSQL</b> databases!
-
-You can explore my work on my <b><a href="https://portfolio-coral-theta-31.vercel.app/">online portfolio</a></b>.
+<!-- You can explore my work on my <b><a href="https://portfolio-coral-theta-31.vercel.app/">online portfolio</a></b>. -->
 </p>
 
 ---
