@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://res.cloudinary.com/dhvuw8yog/image/upload/v1785771230/ok_v3tjjj.png" alt="Banner" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=28A9E0&center=true&vCenter=true&width=800&height=80&lines=Hi+there!+I'm+Ahmed+Mokhtar;Full-Stack+Developer" alt="Typing SVG" />
 </div>
 
