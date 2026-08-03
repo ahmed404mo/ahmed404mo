@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://res.cloudinary.com/dhvuw8yog/image/upload/v1785771230/ok_v3tjjj.png](https://res.cloudinary.com/dhvuw8yog/image/upload/v1785772926/ok_1_zuwlno.png)" alt="Banner" width="100%" />
+  <img src="https://res.cloudinary.com/dhvuw8yog/image/upload/v1785772926/ok_1_zuwlno.png" alt="Banner" width="100%" />
 </div>
 
 <br/>
