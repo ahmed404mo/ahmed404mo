@@ -26,7 +26,7 @@ Welcome to my GitHub Profile! I am <b>Ahmed Mokhtar</b>, a passionate <b>Full-St
 
 ---
 
-## My favorite tools and technologies ⚙️
+## My Favorite Tools and Technologies
 > Tools and technologies that I have worked with and am interested in
 
 <table align="center">
@@ -155,9 +155,9 @@ Welcome to my GitHub Profile! I am <b>Ahmed Mokhtar</b>, a passionate <b>Full-St
   </tr>
 </table>
 
-## Github stats 📊
+## GitHub Stats
 <details open>
-  <summary>GitHub Profile Stats 💻</summary>
+  <summary>GitHub Profile Stats</summary>
   <br/>
   <p align="center">
     <a href="https://github.com/ahmed404mo">
@@ -175,7 +175,7 @@ Welcome to my GitHub Profile! I am <b>Ahmed Mokhtar</b>, a passionate <b>Full-St
 </details>
 
 <details>
-  <summary>Activity Graph 📈</summary>
+  <summary>Activity Graph</summary>
   <br/>
   <a href="https://github.com/ahmed404mo">
     <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed404mo&bg_color=00000000&color=28A9E0&line=28A9E0&point=FFFFFF&area=true&hide_border=true" />
@@ -183,13 +183,13 @@ Welcome to my GitHub Profile! I am <b>Ahmed Mokhtar</b>, a passionate <b>Full-St
 </details>
 
 <details>
-  <summary>Achievements 🏆</summary>
+  <summary>Achievements</summary>
   <br/>
   <img src="https://github-trophies.vercel.app/?username=ahmed404mo&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </details>
 
 <details>
-  <summary>Featured Projects 📌</summary>
+  <summary>Featured Projects</summary>
   <br/>
   <p align="center">
     <a href="https://github.com/ahmed404mo">
@@ -202,21 +202,21 @@ Welcome to my GitHub Profile! I am <b>Ahmed Mokhtar</b>, a passionate <b>Full-St
 </details>
 
 <details>
-  <summary>Profile Views 👁️</summary>
+  <summary>Profile Views</summary>
   <br/>
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=ahmed404mo&label=PROFILE+VIEWS&style=for-the-badge&color=28A9E0">
   </p>
 </details>
 
-## My Contributions 🔥
+## My Contributions
 <div align="center">
   <a href="https://github.com/ahmed404mo">
     <img alt="Ahmed's GitHub chart" src="https://ghchart.rshah.org/28A9E0/ahmed404mo" width="80%" />
   </a>
 </div>
 
-## 👨‍💻 Professional Coding in Action
+## Professional Coding in Action
 <div align="center">
   <img src="https://media1.tenor.com/m/UttC4AITYR4AAAAd/full-stack-developer.gif" width="600" alt="Coding at work" />
   <br>
