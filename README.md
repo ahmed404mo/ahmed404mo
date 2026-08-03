@@ -3,6 +3,9 @@
 </div>
 
 <div align="center">
+  <a href="https://portfolio-coral-theta-31.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
   <a href="https://www.instagram.com/ahmed404mo?igsh=eGdnaXplaThrODg5">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
@@ -22,6 +25,8 @@
 
 <p align="center">
 Welcome to my GitHub Profile! I am <b>Ahmed Mokhtar</b>, a passionate <b>Full-Stack Developer</b> dedicated to building scalable and efficient web applications. I create modern, interactive digital experiences with <b>React</b> & <b>Next.js</b>, and I build robust backends with <b>Node.js</b>, <b>Express</b> & <b>NestJS</b> — turning complex challenges into clean, high-quality code with <b>SQL</b> & <b>NoSQL</b> databases!
+
+You can explore my work on my <b><a href="https://portfolio-coral-theta-31.vercel.app/">online portfolio</a></b>.
 </p>
 
 ---
@@ -156,15 +161,12 @@ Welcome to my GitHub Profile! I am <b>Ahmed Mokhtar</b>, a passionate <b>Full-St
 </table>
 
 ## GitHub Stats
-<details open>
-  <summary>GitHub Profile Stats</summary>
-  <br/>
-  <p align="center">
+<p align="center">
     <a href="https://github.com/ahmed404mo">
       <img alt="Ahmed's GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api/?username=ahmed404mo&show_icons=true&count_private=true&theme=transparent&hide_border=true&title_color=28A9E0&icon_color=28A9E0" height="192px"/>
     </a>
     <a href="https://github.com/ahmed404mo">
-      <img alt="Ahmed's Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahmed404mo&langs_count=6&layout=compact&theme=transparent&hide_border=true&title_color=28A9E0&icon_color=28A9E0" height="192px"/>
+      <img alt="Ahmed's Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahmed404mo&langs_count=6&theme=transparent&hide_border=true&title_color=28A9E0&icon_color=28A9E0" height="192px"/>
     </a>
   </p>
   <p align="center">
@@ -172,26 +174,21 @@ Welcome to my GitHub Profile! I am <b>Ahmed Mokhtar</b>, a passionate <b>Full-St
       <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed404mo&theme=transparent&hide_border=true&stroke=28A9E0&ring=28A9E0&fire=28A9E0&date_format=M+j%5B%2C+Y%5D" width="80%" />
     </a>
   </p>
-</details>
 
-<details>
-  <summary>Activity Graph</summary>
-  <br/>
+## Activity Graph
+<p align="center">
   <a href="https://github.com/ahmed404mo">
     <img alt="Activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ahmed404mo&bg_color=00000000&color=28A9E0&line=28A9E0&point=FFFFFF&area=true&hide_border=true" />
   </a>
-</details>
+</p>
 
-<details>
-  <summary>Achievements</summary>
-  <br/>
+## Achievements
+<p align="center">
   <img src="https://github-trophies.vercel.app/?username=ahmed404mo&theme=algolia&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</details>
+</p>
 
-<details>
-  <summary>Featured Projects</summary>
-  <br/>
-  <p align="center">
+## Featured Projects
+<p align="center">
     <a href="https://github.com/ahmed404mo">
       <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ahmed404mo&repo=E-Commerce-&theme=transparent&hide_border=true&title_color=28A9E0" />
       <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ahmed404mo&repo=SARAHA-APPBackEnd&theme=transparent&hide_border=true&title_color=28A9E0" />
@@ -199,15 +196,11 @@ Welcome to my GitHub Profile! I am <b>Ahmed Mokhtar</b>, a passionate <b>Full-St
       <img align="center" src="https://github-readme-stats-fast.vercel.app/api/pin/?username=ahmed404mo&repo=Academic-Advising-Portal&theme=transparent&hide_border=true&title_color=28A9E0" />
     </a>
   </p>
-</details>
 
-<details>
-  <summary>Profile Views</summary>
-  <br/>
-  <p align="center">
+## Profile Views
+<p align="center">
     <img src="https://komarev.com/ghpvc/?username=ahmed404mo&label=PROFILE+VIEWS&style=for-the-badge&color=28A9E0">
   </p>
-</details>
 
 ## My Contributions
 <div align="center">
