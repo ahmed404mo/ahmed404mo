@@ -171,7 +171,7 @@ You can explore my work on my <b><a href="https://portfolio-coral-theta-31.verce
   </p>
   <p align="center">
     <a href="https://github.com/ahmed404mo">
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed404mo&theme=transparent&hide_border=true&stroke=28A9E0&ring=28A9E0&fire=28A9E0&date_format=M+j%5B%2C+Y%5D" width="80%" />
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=ahmed404mo&theme=transparent&hide_border=true&stroke=28A9E0&ring=28A9E0&fire=28A9E0&date_format=M+j%5B%2C+Y%5D" width="80%" />
     </a>
   </p>
 
