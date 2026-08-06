@@ -1,3 +1,5 @@
+<img src="banner.svg" alt="Ahmed Mokhtar — Full-Stack Developer" width="100%" />
+
 # Hi, I'm Ahmed Mokhtar 👋
 
 **Full-Stack Developer** — I design and build full-stack web applications with **React**, **Next.js**, **Node.js**, **Express** and **NestJS**, backed by SQL & NoSQL databases, with caching, realtime and payment integration.
