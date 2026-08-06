@@ -4,15 +4,25 @@
 
 **@ahmed404mo · Cairo, Egypt**
 
-I'm a **<font color="#28A9E0">Junior Full-Stack Developer</font>** with **1–2 years of experience**, building complete products end-to-end — e-commerce, realtime chat, social platforms and portfolios. I care about the whole journey: clean, scalable APIs and the frontends that consume them.
+I'm a **Junior Full-Stack Developer** with **1–2 years of experience**, building complete products end-to-end — e-commerce, realtime chat, social platforms and portfolios. I care about the whole journey: clean, scalable APIs and the frontends that consume them.
 
-I work **<font color="#28A9E0">TypeScript-first</font>** across the MERN stack plus **NestJS** and **Prisma/PostgreSQL**, and I enjoy the details that make software reliable — caching, auth, realtime and payments.
+I work **TypeScript-first** across the MERN stack plus **NestJS** and **Prisma/PostgreSQL**, and I enjoy the details that make software reliable — caching, auth, realtime and payments.
 
 <p>
   <a href="https://portfolio-coral-theta-31.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/ahmed-pandaa-18939b427">LinkedIn</a> ·
   <a href="mailto:mo879938@gmail.com">Email</a> ·
   <a href="https://wa.me/201096790839">WhatsApp</a>
+</p>
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=28A9E0&center=true&vCenter=true&width=780&lines=Full-Stack+Web+Developer;MERN+%7C+NestJS+%7C+GraphQL;React+%26+Next.js;Node.js+%26+Express;Open+to+Full-Stack+Roles" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-Full--Stack%20Roles-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Junior%20Full--Stack-Developer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/1--2%20Years-Experience-28A9E0?style=for-the-badge" />
 </p>
 
 Certified **Full-Stack Developer** (Meta & IBM, via Coursera).
