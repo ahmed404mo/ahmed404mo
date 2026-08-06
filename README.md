@@ -67,7 +67,7 @@ Social media & real-time chat backend exposing REST and GraphQL APIs — friends
 
 <p align="center">
   <a href="https://github.com/ahmed404mo">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmed404mo&show_icons=true&count_private=true&hide_border=true&title_color=28A9E0&icon_color=28A9E0" height="180"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed404mo&langs_count=6&hide_border=true&title_color=28A9E0" height="180"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/?username=ahmed404mo&show_icons=true&count_private=true&hide_border=true&title_color=28A9E0&icon_color=28A9E0" height="180"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ahmed404mo&langs_count=6&hide_border=true&title_color=28A9E0" height="180"/>
   </a>
 </p>
