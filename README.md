@@ -16,9 +16,9 @@ I work **TypeScript-first** across the MERN stack plus **NestJS** and **Prisma/P
   <a href="https://wa.me/201096790839">WhatsApp</a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-28A9E0?style=flat" alt="Open to Work" />
-</p>
+</p> -->
 
 Certified **Full-Stack Developer** (Meta & IBM, via Coursera).
 
