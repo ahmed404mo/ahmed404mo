@@ -1,4 +1,4 @@
-<img src="banner_v2.png" alt="Ahmed Mokhtar — Full-Stack Developer" width="100%" />
+<img src="banner.png" alt="Ahmed Mokhtar — Full-Stack Developer" width="100%" />
 
 # Hi, I'm Ahmed Mokhtar
 
