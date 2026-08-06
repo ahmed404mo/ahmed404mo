@@ -4,15 +4,20 @@
 
 **@ahmed404mo · Cairo, Egypt**
 
-I'm a **<font color="#28A9E0">Junior Full-Stack Developer</font>** with **1–2 years of experience**, building complete products end-to-end — e-commerce, realtime chat, social platforms and portfolios. I care about the whole journey: clean, scalable APIs and the frontends that consume them.
+I'm a **Junior Full-Stack Developer** with **1–2 years of experience**, building complete products end-to-end — e-commerce, realtime chat, social platforms and portfolios. I care about the whole journey: clean, scalable APIs and the frontends that consume them.
 
-I work **<font color="#28A9E0">TypeScript-first</font>** across the MERN stack plus **NestJS** and **Prisma/PostgreSQL**, and I enjoy the details that make software reliable — caching, auth, realtime and payments.
+I work **TypeScript-first** across the MERN stack plus **NestJS** and **Prisma/PostgreSQL**, and I enjoy the details that make software reliable — caching, auth, realtime and payments.
 
 <p>
   <a href="https://portfolio-coral-theta-31.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/ahmed-pandaa-18939b427">LinkedIn</a> ·
+  <a href="https://drive.google.com/file/d/1n9X_ICwUHT7SHMs-8PlGfc7kNiyA-8Pf/view?usp=sharing">Resume</a> ·
   <a href="mailto:mo879938@gmail.com">Email</a> ·
   <a href="https://wa.me/201096790839">WhatsApp</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-3fb950?style=flat" alt="Open to Work" />
 </p>
 
 Certified **Full-Stack Developer** (Meta & IBM, via Coursera).
