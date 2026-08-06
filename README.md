@@ -115,4 +115,3 @@ _No live demo — run locally (setup in the repo README)._
 
 **Reach me at** [mo879938@gmail.com](mailto:mo879938@gmail.com) or [WhatsApp](https://wa.me/201096790839) — happy to talk about full-stack roles.
 
-TESTLINE <span style="color:#28A9E0">spanstyle</span> | <b style="color:#ff0000">bstyle</b> | <span color="#28A9E0">spanattr</span>
