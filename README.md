@@ -47,7 +47,7 @@ Certified **Full-Stack Developer** (Meta & IBM, via Coursera).
 **Realtime** — Socket.IO, Pusher
 **Mobile** — Capacitor, Firebase (FCM)
 **Testing** — Jest, Supertest
-**Tools** — Git & GitHub, Vercel, Cloudinary, Postman, npm / pnpm / yarn
+**Tools** — Git & GitHub, Vercel, Cloudinary, Docker, Postman, npm / pnpm / yarn
 
 ---
 
