@@ -63,9 +63,6 @@ Real-time company collaboration platform — group chat with read receipts, reac
 
 ### Portfolio — Frontend
 Personal portfolio (public site + admin dashboard) that fetches all content live from its REST API — updating the site never requires a redeploy.
-
-![Portfolio preview](https://raw.githubusercontent.com/ahmed404mo/FrontEnd-Portfolio/main/public/portTwo.png)
-
 **Tech:** Next.js · TypeScript · Tailwind CSS · shadcn/ui · Framer Motion
 [Repository](https://github.com/ahmed404mo/FrontEnd-Portfolio) · [Live](https://portfolio-coral-theta-31.vercel.app/)
 
