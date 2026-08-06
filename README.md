@@ -6,14 +6,11 @@
 
 I'm a **Junior Full-Stack Developer** with **1–2 years of experience**, building complete products end-to-end — e-commerce, realtime chat, social platforms and portfolios. I care about the whole journey: clean, scalable APIs and the frontends that consume them.
 
-I work **TypeScript-first** across the MERN stack plus **NestJS** and **Prisma/PostgreSQL**, and I enjoy the details that make software reliable — caching, auth, realtime and payments.
+> [!TIP]
+> **TypeScript-first** across the MERN stack plus **NestJS** and **Prisma/PostgreSQL** — with a focus on caching, auth, realtime and payments.
 
-<p>
-  <a href="https://portfolio-coral-theta-31.vercel.app/">Portfolio</a> ·
-  <a href="https://www.linkedin.com/in/ahmed-pandaa-18939b427">LinkedIn</a> ·
-  <a href="mailto:mo879938@gmail.com">Email</a> ·
-  <a href="https://wa.me/201096790839">WhatsApp</a>
-</p>
+> [!IMPORTANT]
+> [Portfolio](https://portfolio-coral-theta-31.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/ahmed-pandaa-18939b427) · [Email](mailto:mo879938@gmail.com) · [WhatsApp](https://wa.me/201096790839)
 
 Certified **Full-Stack Developer** (Meta & IBM, via Coursera).
 
@@ -56,7 +53,8 @@ Certified **Full-Stack Developer** (Meta & IBM, via Coursera).
 ### E-Commerce API
 NestJS-based e-commerce backend covering the full shopping flow — JWT & Google OAuth auth with email confirmation, cart, coupons, orders, Stripe checkout, a REST **and** GraphQL API, and Socket.IO realtime presence over Redis.
 **Tech:** NestJS · MongoDB · GraphQL · Redis · Stripe · Socket.IO
-_No live demo — run locally (setup in the repo README)._
+> [!NOTE]
+> No live demo — run locally (setup in the repo README).
 
 [Repository](https://github.com/ahmed404mo/BackEnd-E-Commerce)
 
@@ -79,14 +77,16 @@ REST API powering the portfolio — content management (profile, projects, skill
 ### Saraha App — Backend API
 Backend for an anonymous-messaging platform — full auth flow (signup, email confirmation, password recovery), user profiles and anonymous messages, with JWT authorization and Redis rate limiting.
 **Tech:** Node.js · Express 5 · MongoDB · Redis · JWT · Nodemailer
-_No live demo — run locally (setup in the repo README)._
+> [!NOTE]
+> No live demo — run locally (setup in the repo README).
 
 [Repository](https://github.com/ahmed404mo/SARAHA-APP-BackEnd)
 
 ### Social Media App — Backend API
 Social media & real-time chat backend exposing REST and GraphQL APIs — friendships, posts with nested comments, one-to-one and group chat over Socket.IO, with Redis-backed sessions and Cloudinary media.
 **Tech:** Node.js · Express · TypeScript · MongoDB · GraphQL · Socket.IO · Redis
-_No live demo — run locally (setup in the repo README)._
+> [!NOTE]
+> No live demo — run locally (setup in the repo README).
 
 [Repository](https://github.com/ahmed404mo/Social-MediaApp-Backend)
 
