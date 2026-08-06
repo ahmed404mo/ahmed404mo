@@ -40,8 +40,13 @@ Certified **Full-Stack Developer** (Meta & IBM, via Coursera).
 ## Tech Stack
 
 **Frontend** — React, Next.js, TypeScript, Tailwind CSS, shadcn/ui, Redux, Bootstrap, SCSS, Framer Motion
-**Backend** — Node.js, Express, NestJS, GraphQL, Socket.IO, JWT, Stripe, Nodemailer
-**Databases** — MongoDB (Mongoose), MySQL, PostgreSQL (Prisma), Redis
+**Backend** — Node.js, Express, NestJS, GraphQL, Stripe, Nodemailer
+**Databases** — MongoDB (Mongoose), PostgreSQL (Prisma), MySQL (Sequelize), Redis
+**Auth & Security** — JWT, NextAuth, Google OAuth, bcrypt / argon2, Helmet, rate limiting
+**Validation** — Zod, Joi, class-validator
+**Realtime** — Socket.IO, Pusher
+**Mobile** — Capacitor, Firebase (FCM)
+**Testing** — Jest, Supertest
 **Tools** — Git & GitHub, Vercel, Cloudinary, Postman, npm / pnpm / yarn
 
 ---
