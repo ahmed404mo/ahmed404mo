@@ -1,6 +1,6 @@
 <img src="banner.svg" alt="Ahmed Mokhtar — Full-Stack Developer" width="100%" />
 
-# Hi, I'm Ahmed Mokhtar 👋
+# Hi, I'm Ahmed Mokhtar
 
 **@ahmed404mo · Cairo, Egypt**
 
@@ -34,8 +34,8 @@ Certified **Full-Stack Developer** (Meta & IBM, via Coursera).
 
 ## Currently
 
-- 🔭 **Working on** — hardening and scaling my backend projects: auth flows, rate limiting and realtime features.
-- 🌱 **Learning** — advanced Node.js architecture, system design and deeper TypeScript patterns.
+- **Working on** — hardening and scaling my backend projects: auth flows, rate limiting and realtime features.
+- **Learning** — advanced Node.js architecture, system design and deeper TypeScript patterns.
 
 ## Tech Stack
 
@@ -48,20 +48,20 @@ Certified **Full-Stack Developer** (Meta & IBM, via Coursera).
 
 ## Featured Projects
 
-### 🛒 E-Commerce API
+### E-Commerce API
 NestJS-based e-commerce backend covering the full shopping flow — JWT & Google OAuth auth with email confirmation, cart, coupons, orders, Stripe checkout, a REST **and** GraphQL API, and Socket.IO realtime presence over Redis.
 **Tech:** NestJS · MongoDB · GraphQL · Redis · Stripe · Socket.IO
 _No live demo — run locally (setup in the repo README)._
 
 [Repository](https://github.com/ahmed404mo/BackEnd-E-Commerce)
 
-### 💬 Mentora — Company Platform
+### Mentora — Company Platform
 Real-time company collaboration platform — group chat with read receipts, reactions and pinned messages, work orders and a portfolio. Ships as a Next.js web app plus an Android app (Capacitor) with FCM push notifications.
 **Tech:** Next.js · Prisma · PostgreSQL · Socket.IO · Pusher · Capacitor · Firebase
 
 [Repository](https://github.com/ahmed404mo/chat-Company-Platform) · [Live](https://chat-five-rho-38.vercel.app)
 
-### 🖥️ Portfolio — Frontend
+### Portfolio — Frontend
 Personal portfolio (public site + admin dashboard) that fetches all content live from its REST API — updating the site never requires a redeploy.
 
 ![Portfolio preview](https://raw.githubusercontent.com/ahmed404mo/FrontEnd-Portfolio/main/public/portTwo.png)
@@ -69,19 +69,19 @@ Personal portfolio (public site + admin dashboard) that fetches all content live
 **Tech:** Next.js · TypeScript · Tailwind CSS · shadcn/ui · Framer Motion
 [Repository](https://github.com/ahmed404mo/FrontEnd-Portfolio) · [Live](https://portfolio-coral-theta-31.vercel.app/)
 
-### ⚙️ Portfolio — Backend API
+### Portfolio — Backend API
 REST API powering the portfolio — content management (profile, projects, skills, certificates), JWT admin auth, Cloudinary image uploads, and contact-message email alerts.
 **Tech:** Node.js · Express · MongoDB · JWT · Cloudinary · Nodemailer
 [Repository](https://github.com/ahmed404mo/backEnd-Portfolio) · [Live API](https://portfolioapi-flame.vercel.app)
 
-### ✉️ Saraha App — Backend API
+### Saraha App — Backend API
 Backend for an anonymous-messaging platform — full auth flow (signup, email confirmation, password recovery), user profiles and anonymous messages, with JWT authorization and Redis rate limiting.
 **Tech:** Node.js · Express 5 · MongoDB · Redis · JWT · Nodemailer
 _No live demo — run locally (setup in the repo README)._
 
 [Repository](https://github.com/ahmed404mo/SARAHA-APP-BackEnd)
 
-### 🌐 Social Media App — Backend API
+### Social Media App — Backend API
 Social media & real-time chat backend exposing REST and GraphQL APIs — friendships, posts with nested comments, one-to-one and group chat over Socket.IO, with Redis-backed sessions and Cloudinary media.
 **Tech:** Node.js · Express · TypeScript · MongoDB · GraphQL · Socket.IO · Redis
 _No live demo — run locally (setup in the repo README)._
@@ -101,4 +101,4 @@ _No live demo — run locally (setup in the repo README)._
 
 ---
 
-📫 **Reach me at** [mo879938@gmail.com](mailto:mo879938@gmail.com) or [WhatsApp](https://wa.me/201096790839) — happy to talk about full-stack roles.
+**Reach me at** [mo879938@gmail.com](mailto:mo879938@gmail.com) or [WhatsApp](https://wa.me/201096790839) — happy to talk about full-stack roles.
